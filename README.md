@@ -5,12 +5,9 @@
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
 
-## 前端食堂周刊
-
-- [【第1期】2021-08-28](https://github.com/Geekhyt/weekly/issues/1)
-- [【第2期】2021-09-04](https://github.com/Geekhyt/weekly/issues/2)
 - [【第3期】2021-09-11](https://github.com/Geekhyt/weekly/issues/3)
-
+- [【第2期】2021-09-04](https://github.com/Geekhyt/weekly/issues/2)
+- [【第1期】2021-08-28](https://github.com/Geekhyt/weekly/issues/1)
 
 
 ## 交流
