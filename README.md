@@ -5,6 +5,7 @@
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
 
+- [【第7期】2021-10-09](https://github.com/Geekhyt/weekly/issues/7)
 - [【第6期】2021-10-02](https://github.com/Geekhyt/weekly/issues/6)
 - [【第5期】2021-09-25](https://github.com/Geekhyt/weekly/issues/5)
 - [【第4期】2021-09-18](https://github.com/Geekhyt/weekly/issues/4)
