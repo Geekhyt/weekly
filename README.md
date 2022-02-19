@@ -5,6 +5,12 @@
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
 
+## 前端食堂技术周刊
+
+既想写给 2020 的你，也想贪心写给 10 年、20 年后的工程师们，现在的你站在浪潮之巅，面对魔幻的互联网世界，很容易把一条河流看成整片大海。未来的读者已经知道了这段技术的发展历史，但难免会忽略一些细节。如果未来的工程师们真的创造出了时间旅行机器，可以让你回到 2020 年。那么这个项目就是你和当年工程师们的接头暗号，你能感知到他们在这个时代的键盘上留下的余温。
+
+(上段文字灵感来源于何帆《变量》)
+
 - [【第二十五期】2022-02-19](https://github.com/Geekhyt/weekly/issues/26)
 - [【第二十四期】2022-02-13](https://github.com/Geekhyt/weekly/issues/25)
 - [【第二十三期】2022-01-30](https://github.com/Geekhyt/weekly/issues/24)
