@@ -11,6 +11,7 @@
 
 (上段文字灵感来源于何帆《变量》)
 
+- [【第二十七期】2022-03-05](https://github.com/Geekhyt/weekly/issues/28)
 - [【第二十六期】2022-02-26](https://github.com/Geekhyt/weekly/issues/27)
 - [【第二十五期】2022-02-19](https://github.com/Geekhyt/weekly/issues/26)
 - [【第二十四期】2022-02-13](https://github.com/Geekhyt/weekly/issues/25)
