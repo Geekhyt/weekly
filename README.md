@@ -11,6 +11,8 @@
 
 请移步：[前端食堂技术周刊](https://mp.weixin.qq.com/s/86Cz3KUWqutu9J0V4tyabQ)
 
+## 2022 年
+
 - [【第二十九期】2022-03-20](https://github.com/Geekhyt/weekly/issues/30)
 - [【第二十八期】2022-03-12](https://github.com/Geekhyt/weekly/issues/29)
 - [【第二十七期】2022-03-05](https://github.com/Geekhyt/weekly/issues/28)
@@ -21,6 +23,9 @@
 - [【第二十二期】2022-01-23](https://github.com/Geekhyt/weekly/issues/23)
 - [【第二十一期】2022-01-14](https://github.com/Geekhyt/weekly/issues/22)
 - [【第二十期】2022-01-08](https://github.com/Geekhyt/weekly/issues/21)
+
+## 2021 年
+
 - [【第十九期】2021-12-31](https://github.com/Geekhyt/weekly/issues/20)
 - [【第十八期】2021-12-25](https://github.com/Geekhyt/weekly/issues/19)
 - [【第十七期】2021-12-17](https://github.com/Geekhyt/weekly/issues/18)
