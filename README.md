@@ -49,6 +49,6 @@
 
 ## 交流
 
-加我微信: hungryturbo 备注「加群」即可。
+加我微信: hungryturbo 备注「周刊」即可。
 
 ![](https://github.com/Geekhyt/front-end-canteen/blob/master/images/new-qrcode.jpg)
