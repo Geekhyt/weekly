@@ -13,6 +13,7 @@
 
 ## 2022 年
 
+- [【第三十四期】2022-04-24](https://github.com/Geekhyt/weekly/issues/35)
 - [【第三十三期】2022-04-16](https://github.com/Geekhyt/weekly/issues/34)
 - [【第三十二期】2022-04-09](https://github.com/Geekhyt/weekly/issues/33)
 - [【第三十一期】2022-04-02](https://github.com/Geekhyt/weekly/issues/32)
