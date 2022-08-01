@@ -1,3 +1,4 @@
+[![](https://img.shields.io/badge/Zhubai-%E7%AB%B9%E7%99%BD-%23f64343)]
 [![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#交流)
 [![](https://img.shields.io/badge/公众号-前端食堂-blueviolet)](#交流)
 [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/5a2de8a8f265da4320032fc4)
@@ -13,6 +14,7 @@
 
 ## 2022 年
 
+- [【第四十六期】2022-08-01](https://github.com/Geekhyt/weekly/issues/48)
 - [【第四十五期】2022-07-26](https://github.com/Geekhyt/weekly/issues/47)
 - [【第四十四期】2022-07-11](https://github.com/Geekhyt/weekly/issues/46)
 - [【第四十三期】2022-07-04](https://github.com/Geekhyt/weekly/issues/45)
