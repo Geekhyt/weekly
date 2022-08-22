@@ -14,6 +14,7 @@
 
 ## 2022 年
 
+- [【第四十九期】2022-08-22](https://github.com/Geekhyt/weekly/issues/51)
 - [【第四十八期】2022-08-15](https://github.com/Geekhyt/weekly/issues/50)
 - [【第四十七期】2022-08-10](https://github.com/Geekhyt/weekly/issues/49)
 - [【第四十六期】2022-08-01](https://github.com/Geekhyt/weekly/issues/48)
