@@ -12,6 +12,10 @@
 
 请移步：[前端食堂技术周刊](https://mp.weixin.qq.com/s/86Cz3KUWqutu9J0V4tyabQ)
 
+## 2023 年
+
+- [第六十五期】2023-01-04](https://github.com/Geekhyt/weekly/issues/69)
+
 ## 2022 年
 
 - [【第六十四期】2022-12-26](https://github.com/Geekhyt/weekly/issues/68)
