@@ -14,6 +14,7 @@
 
 ## 2023 年
 
+- [【第六十九期】2023-02-06](https://github.com/Geekhyt/weekly/issues/73)
 - [【第六十八期】2023-01-27](https://github.com/Geekhyt/weekly/issues/72)
 - [【第六十七期】2023-01-16](https://github.com/Geekhyt/weekly/issues/71)
 - [【第六十六期】2023-01-09](https://github.com/Geekhyt/weekly/issues/70)
