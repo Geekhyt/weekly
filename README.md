@@ -14,6 +14,7 @@
 
 ## 2023 年
 
+- [【第 108 期】2023-12-11](https://github.com/Geekhyt/weekly/issues/115)
 - [【第 107 期】2023-12-05](https://github.com/Geekhyt/weekly/issues/114)
 - [【第 106 期】2023-11-27](https://github.com/Geekhyt/weekly/issues/113)
 - [【第 105 期】2023-11-20](https://github.com/Geekhyt/weekly/issues/112)
