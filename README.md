@@ -1,6 +1,6 @@
 [![](https://img.shields.io/badge/Zhubai-%E7%AB%B9%E7%99%BD-%23f64343)](https://hungryturbo.zhubai.love/)
-[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#交流)
-[![](https://img.shields.io/badge/公众号-前端食堂-blueviolet)](#交流)
+[![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#链接交流)
+[![](https://img.shields.io/badge/公众号-前端食堂-blueviolet)](#链接交流)
 [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/5a2de8a8f265da4320032fc4)
 [![](https://img.shields.io/badge/Weibo-微博-orange)](https://weibo.com/u/2771284557)
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
@@ -120,7 +120,7 @@
 - [【第二十一期】2022-01-14](https://github.com/Geekhyt/weekly/issues/22)
 - [【第二十期】2022-01-08](https://github.com/Geekhyt/weekly/issues/21)
 
-## 2021 年
+# 2021 年
 
 - [【第十九期】2021-12-31](https://github.com/Geekhyt/weekly/issues/20)
 - [【第十八期】2021-12-25](https://github.com/Geekhyt/weekly/issues/19)
