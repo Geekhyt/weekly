@@ -6,14 +6,15 @@
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
 
-## 前端食堂技术周刊
+## 技术周刊
 
-为什么要写周刊？食堂技术周刊是怎样制作的？
+为什么要写周刊？技术周刊是怎样制作的？
 
-请移步：[前端食堂技术周刊](https://mp.weixin.qq.com/s/86Cz3KUWqutu9J0V4tyabQ)
+请移步：[技术周刊](https://mp.weixin.qq.com/s/86Cz3KUWqutu9J0V4tyabQ)
 
 ## 2024 年
 
+- [【第 118 期】2024-04-13](https://github.com/Geekhyt/weekly/issues/125)
 - [【第 117 期】2024-03-25](https://github.com/Geekhyt/weekly/issues/124)
 - [【第 116 期】2024-03-19](https://github.com/Geekhyt/weekly/issues/123)
 - [【第 115 期】2024-03-11](https://github.com/Geekhyt/weekly/issues/122)
