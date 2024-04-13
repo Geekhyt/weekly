@@ -6,13 +6,13 @@
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
 
-## 技术周刊
+# 技术周刊
 
 为什么要写周刊？技术周刊是怎样制作的？
 
 请移步：[技术周刊](https://mp.weixin.qq.com/s/86Cz3KUWqutu9J0V4tyabQ)
 
-## 2024 年
+# 2024 年
 
 - [【第 118 期】2024-04-13](https://github.com/Geekhyt/weekly/issues/125)
 - [【第 117 期】2024-03-25](https://github.com/Geekhyt/weekly/issues/124)
@@ -24,7 +24,7 @@
 - [【第 111 期】2024-01-17](https://github.com/Geekhyt/weekly/issues/118)
 - [【第 110 期】2024-01-04](https://github.com/Geekhyt/weekly/issues/117)
 
-## 2023 年
+# 2023 年
 
 - [【第 109 期】2023-12-19](https://github.com/Geekhyt/weekly/issues/116)
 - [【第 108 期】2023-12-11](https://github.com/Geekhyt/weekly/issues/115)
@@ -72,7 +72,7 @@
 - [【第六十六期】2023-01-09](https://github.com/Geekhyt/weekly/issues/70)
 - [【第六十五期】2023-01-04](https://github.com/Geekhyt/weekly/issues/69)
 
-## 2022 年
+# 2022 年
 
 - [【第六十四期】2022-12-26](https://github.com/Geekhyt/weekly/issues/68)
 - [【第六十三期】2022-12-13](https://github.com/Geekhyt/weekly/issues/67)
@@ -143,8 +143,9 @@
 - [【第一期】2021-08-28](https://github.com/Geekhyt/weekly/issues/1)
 
 
-## 交流
+# 链接交流
 
-加我微信: hungryturbo 备注「周刊」即可。
+扫码加我微信: hungryturbo，备注「周刊」即可。
 
-![](https://github.com/Geekhyt/front-end-canteen/blob/master/images/new-qrcode.jpg)
+![自我介绍最新](https://github.com/Geekhyt/weekly/assets/25742988/813ce9c5-d206-44b9-b8c1-9bc75182dfe8)
+
