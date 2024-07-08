@@ -14,6 +14,7 @@
 
 # 2024 年
 
+- [【第 119 期】2024-07-08](https://github.com/Geekhyt/weekly/issues/128)
 - [【第 118 期】2024-04-13](https://github.com/Geekhyt/weekly/issues/125)
 - [【第 117 期】2024-03-25](https://github.com/Geekhyt/weekly/issues/124)
 - [【第 116 期】2024-03-19](https://github.com/Geekhyt/weekly/issues/123)
