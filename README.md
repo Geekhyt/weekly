@@ -1,10 +1,7 @@
-[![](https://img.shields.io/badge/Zhubai-%E7%AB%B9%E7%99%BD-%23f64343)](https://hungryturbo.zhubai.love/)
 [![](https://img.shields.io/badge/WeChat-微信群-brightgreen)](#链接交流)
 [![](https://img.shields.io/badge/公众号-前端食堂-blueviolet)](#链接交流)
 [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.im/user/5a2de8a8f265da4320032fc4)
-[![](https://img.shields.io/badge/Weibo-微博-orange)](https://weibo.com/u/2771284557)
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/huo-yi-tong-98)
-[![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/161753278)
 
 # 技术周刊
 
