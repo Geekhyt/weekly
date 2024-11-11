@@ -11,6 +11,7 @@
 
 # 2024 年
 
+- [【第 133 期】2024-11-11](https://github.com/Geekhyt/weekly/issues/142)
 - [【第 132 期】2024-11-04](https://github.com/Geekhyt/weekly/issues/141)
 - [【第 131 期】2024-10-21](https://github.com/Geekhyt/weekly/issues/140)
 - [【第 130 期】2024-10-14](https://github.com/Geekhyt/weekly/issues/139)
