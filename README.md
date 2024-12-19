@@ -160,7 +160,5 @@
 
 # 链接交流
 
-扫码加我微信: hungryturbo，备注「周刊」即可。
-
-![自我介绍最新](https://github.com/Geekhyt/weekly/assets/25742988/813ce9c5-d206-44b9-b8c1-9bc75182dfe8)
+加我微信: hungryturbo，备注「周刊」即可。
 
